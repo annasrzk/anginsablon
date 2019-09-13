@@ -10619,7 +10619,7 @@ hr.light {
 }
 
 .card {
-  padding: 10px 0px;
+  padding: 0px 0px;
   -webkit-transition: -webkit-box-shadow .7s;
   transition: -webkit-box-shadow .7s;
   transition: box-shadow .7s;
@@ -10872,7 +10872,7 @@ header.masthead h1 {
     height: calc(45% + var(--gap-vertical) * 2);
   }
   .fa-4x {
-    font-size: 4em;
+    margin: 2rem 0.6rem 0rem !important;
   }
 }
 
@@ -10887,8 +10887,7 @@ header.masthead h1 {
     height: calc(43.5% + var(--gap-vertical) * 2);
   }
   .fa-4x {
-    font-size: 4em !important;
-    margin: 2rem 1rem 0rem 1rem !important;
+    margin: 2rem 0.6rem 0rem !important;
   }
 }
 
@@ -10903,8 +10902,7 @@ header.masthead h1 {
     height: calc(48% + var(--gap-vertical) * 2);
   }
   .fa-4x {
-    font-size: 4em !important;
-    margin: 3rem 1.5rem !important;
+    margin: 2rem 0.6rem 0rem !important;
   }
 }
 
@@ -10919,8 +10917,7 @@ header.masthead h1 {
     height: calc(47% + var(--gap-vertical) * 2);
   }
   .fa-4x {
-    font-size: 4em !important;
-    margin: 3rem !important;
+    margin: 2rem 0.6rem 0rem !important;
   }
 }
 
@@ -10935,8 +10932,7 @@ header.masthead h1 {
     height: calc(46% + var(--gap-vertical) * 2);
   }
   .fa-4x {
-    font-size: 4em !important;
-    margin: 3rem !important;
+    margin: 2rem 0.6rem 0rem !important;
   }
 }
 
@@ -11549,4 +11545,22 @@ header.masthead h1 {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
+}
+
+.konsultasi {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/konsultasi.svg);
+  background-size: 100px 100px;
+}
+
+.down-payment {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/downpayment.svg);
+  background-size: 100px 100px;
 }
