@@ -11570,3 +11570,30 @@ header.masthead h1 {
   background: url(/img/icon/workorder.svg);
   background-size: 100px 100px;
 }
+
+.produksi {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/produksi.svg);
+  background-size: 100px 100px;
+}
+
+.adm {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/adm.svg);
+  background-size: 100px 100px;
+}
+
+.pengambilan {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/pengambilan.svg);
+  background-size: 100px 100px;
+}
