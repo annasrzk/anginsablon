@@ -10865,9 +10865,6 @@ header.masthead h1 {
 }
 
 @media (max-width: 480px) {
-  .demo-1 {
-    padding: 15rem 0rem;
-  }
   .glitch__img {
     height: calc(45% + var(--gap-vertical) * 2);
   }
@@ -10893,13 +10890,13 @@ header.masthead h1 {
 
 @media (min-width: 768px) {
   .demo-1 {
-    padding: 27rem 0rem;
+    padding: 30.5rem 0rem;
   }
   .glitch {
     height: 310vh !important;
   }
   .glitch__img {
-    height: calc(48% + var(--gap-vertical) * 2);
+    height: calc(47% + var(--gap-vertical) * 2);
   }
   .fa-4x {
     margin: 2rem 0.6rem 0rem !important;
@@ -10908,10 +10905,10 @@ header.masthead h1 {
 
 @media (min-width: 992px) {
   .demo-1 {
-    padding: 33rem 0rem;
+    padding: 30.5rem 0rem;
   }
   .glitch {
-    height: 390vh !important;
+    height: 310vh !important;
   }
   .glitch__img {
     height: calc(47% + var(--gap-vertical) * 2);
@@ -10926,7 +10923,7 @@ header.masthead h1 {
     padding: 40rem 0rem;
   }
   .glitch {
-    height: 480vh !important;
+    height: 380vh !important;
   }
   .glitch__img {
     height: calc(46% + var(--gap-vertical) * 2);
