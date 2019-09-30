@@ -11561,3 +11561,12 @@ header.masthead h1 {
   background: url(/img/icon/downpayment.svg);
   background-size: 100px 100px;
 }
+
+.work-order {
+  text-indent: -9999px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  background: url(/img/icon/workorder.svg);
+  background-size: 100px 100px;
+}
